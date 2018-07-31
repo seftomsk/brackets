@@ -1,0 +1,19 @@
+{
+    "name": "seftomsk/brackets",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Alexey Verkhovtsev",
+            "email": "seftomsk@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.7"
+    },
+    "autoload": {
+        "psr-4": {
+            "Seftomsk\\Brackets\\": "src/"
+        }
+    }
+}
